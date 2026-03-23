@@ -1,7 +1,7 @@
 # Road Accident Analysis Dashboard
 ![Dashboard Screenshot](dashboard.png)
 ## Description
-This Excel dashboard provides a detailes analysis of road accident data. 
+This Excel dashboard provides a detailed analysis of road accident data. 
 It includes visualizations of accidents by severity: fatal, slight, and severe. 
 The dashboard breaks down the data by road type, vehicle type, month-to-month trends, road surface conditions, area, and lighting conditions. 
 These insights allow users to quickly identify patterns and trends in accident occurrences, helping to highlight high-risk areas, times, and conditions. 
